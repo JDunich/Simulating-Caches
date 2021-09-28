@@ -2,8 +2,7 @@
 
 ## Description ##
 
-This is a project from Rutgers Coputer Science 01:198:211:05-08 COMPUTER ARCHITECTURE class taught by Prof. Santosh Nagarakatte. For this project we were instructed to build
-a simulated Cache in order to inprove our understanding of memory addresses in C. Below is the full assignemnt description: 
+This is a project from Rutgers Computer Science 01:198:211:05-08 COMPUTER ARCHITECTURE class taught by Prof. Santosh Nagarakatte. For this project we were instructed to build a simulated Cache in order to improve our understanding of memory addresses in C. Below is the full assignment description:
 
 ### 1 Overview ###
 
